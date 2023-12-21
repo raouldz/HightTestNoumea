@@ -13,7 +13,7 @@ public class IstqbTests extends BaseTests {
         IstqbPage istqbTestPage = toolBoxPage.clickOnIstqbTestfrenchLink();
         istqbTestPage.answerIstqbQuestion();
         ResultatTestpage resultatTestpage =istqbTestPage.clickOntermineBouton();
-        resultatTestpage.submitEmail("dzonou@yahoo.com");
+        resultatTestpage.submitEmail("zoe@hightest.nc");
 
     }
 
